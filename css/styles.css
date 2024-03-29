@@ -1,5 +1,7 @@
 body {
     background: rgb(255, 236, 151);
+    display: block;
+    margin: 8px;
 }
 h1, p {
     text-align: center;
